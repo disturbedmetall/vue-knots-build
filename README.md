@@ -1,1 +1,1 @@
-https://disturbedmetall.github.io/vue-knots-dist
+https://disturbedmetall.github.io/vue-knots-build
